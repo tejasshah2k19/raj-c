@@ -1,0 +1,47 @@
+
+
+
+HL  [ user ] [ Eng ]
+
+LL  [ system ] [ binary 0101 ] 
+
+ML [ HL + LL]
+
+
+
+1 -> system 
+
+translator -> HL -> LL 
+
+1) interpreter - line by line
+2) compiler - whole at once 
+
+1
+
+3
+-
+2
+3
+5
+
+
+
+tc ,gcc
+
+
+stdio.h -> standard input output . header 
+
+printf(); //output :: print data on console 
+
+
+
+
+
+
+
+
+
+
+
+
+
