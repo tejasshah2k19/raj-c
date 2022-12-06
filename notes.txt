@@ -38,10 +38,44 @@ printf(); //output :: print data on console
 
 
 
+\n => esacape sequence character which is used to print new line 
+
+comment => comment is the code which is not execute by compiler 
+           it is for us, it is for documnetation.
+
+    Name :  XXX
+    City :  XXX 
+    Country : XXXX 
+    
+
+
+*********
+*       *
+*       *
+*       *
+*    *
+*      *
+*      *
+*      *
 
 
 
 
+variable => data name ,which holds some value 
+            data name in which we can store value 
 
+            x = 10 
+            y = 20 
+            z = 20.30;
 
+data type =>
+        int [ number -> whole number , integer number ]
+        float [number -> fractional , real number] 
+     
+     int x;
+     float z;
 
+     %d => format specifier => int 
+     %f => float 
+
+     
