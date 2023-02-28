@@ -78,4 +78,227 @@ data type =>
      %d => format specifier => int 
      %f => float 
 
+     ---------------------------------------------------------
+
+     conditional statement :-
+
+     10
+     3
+
+     -13
+
+
+     a=15
+     b=20
+
+     max | bigger 
+
+
+     if(condition){
+        //true 
+     }
+
+------------------------------------
+take gender from user [F or M] 
+take date of birth [ only year ] from user 
+find out age and print he/she is eligible for bank account. 
+bank account can only be open -> Female with 7 age , Male with 8 Age 
+
+char gender;
+
+%c
+------------------------------------
+loop -> 
+   line of code execute again and again 
+   iterative process 
+   repeating 
+
+   1) for 
+   2) while
+   3) do..while 
+
+1) start 
+2) condition 
+3) inc/dec 
+
+start => 1
+inc => 2 3 4 5 6 7  8 9 10 
+condition => 10  
+
+for(start ; condition ; inc/dec  ){
+   logic 
+}
+
+start
+while(condition){
+   logic
+   inc/dec
+}
+
+
+int i;
+
+i=1;
+while(i<=10){
+   printf(" %d",i);
+
+ i++;
+}
+
+
+
+
+10  5 --> 
+----------------------------------------------------
+
+Restaurant:--
+
+1 For Vada  [15$]
+2 For Idali [20$]
+3 For Dosa  [30$]
+
+Please Enter Your Choice
+3
+
+Please Enter Qty 
+5
+
+Total Payment = 150$
+----------------------------------------------------
+
+1 Gujarati
+2 Punjabi
+3 south indian
+
+enter Choice
+3
+
+1 For Vada  [15$]
+2 For Idali [20$]
+3 For Dosa  [30$]
+
+Please Enter Your Choice
+3
+
+Please Enter Qty 
+5
+
+Total Payment = 150$
+
+
+
+
+-------
+
+5 numbers from user and perfrom add- sum 
+
+15 numbers from user and perfrom add- sum 
+
+
+100 numbers from user and perfrom add- sum 
+
+array -> array is a collection of same type of data 
+
+you take 1 variable type of array and store n number of items 
+
+int a[100]; // you can store 100 values in this a 
+
+int a[5]; // 5 values  
+
+a[0] a[1] a[2] a[3] a[4]
+
+10 20 30 40 50
+
+10 20 30 40 50
+
+50 40 30 20 10
+
+
+==========
+take string from user and check length of it .
+   if length is Less than and equals to 5 then print small string 
+   if length is greater than 5 and less than 11 print medium string.
+
+  len=  strlen(str);
+
+name = "royal" 
+
+len = strlen(name); // 5 
+
+if len <= 5 then small 
+if len > 5 then medium
+
+
+
+
+
+
+
+int a,b,c,d,e,f,g,h,i;
+
+printf("\nEnter 10 values");
+scanf("%d%d%d%d%d%d%d%d%d",&a,&b,&c....);
+
+array -> a single variable with n number of storage capacity. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
      
